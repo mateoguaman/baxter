@@ -1,2 +1,2 @@
 # baxter
-Repo for Prof. Sinapov's research with Baxter
+Repo for research with Baxter
